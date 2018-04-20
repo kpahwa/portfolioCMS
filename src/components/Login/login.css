@@ -1,0 +1,10 @@
+.login_container{
+  max-width: 30vw; 
+  background: #ededed;
+  text-align: center;
+  margin: 50px auto;
+  padding: 15px 50px;
+}
+.m_t_b{
+  margin: 20px 0;
+}
